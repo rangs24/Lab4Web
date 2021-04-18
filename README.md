@@ -4,7 +4,7 @@
 
 Tampilan pada VScode
 
-!img[screenshot](https://github.com/rangs24/Lab4Web/blob/master/ss1.png)
+!img(https://github.com/rangs24/Lab4Web/blob/master/ss1.png)
 
 Tampilan pada browser
 
