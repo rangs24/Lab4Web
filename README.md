@@ -4,7 +4,7 @@
 
 Tampilan pada VScode
 
-!img[SS](https://github.com/rangs24/Lab4Web/blob/master/ss1.png)
+!img[screenshot](https://github.com/rangs24/Lab4Web/blob/master/ss1.png)
 
 Tampilan pada browser
 
@@ -136,7 +136,7 @@ Tampilan pada browser
 !img[SS](https://github.com/rangs24/Lab4Web/blob/master/ss28.png)
 
 # Jawaban Tugas
-1. [about.html](https://github.com/rangs24/Lab4Web/lab4_layout/blob/master/about.html)
+1. [about.html](https://github.com/rangs24/Lab4Web/blob/master/lab4_layout/about.html)
 !img[SS](https://github.com/rangs24/Lab4Web/blob/master/ss29.png)
-2. [kontak.html](https://github.com/rangs24/Lab4Web/lab4_layout/blob/master/kontak.html)
+2. [kontak.html](https://github.com/rangs24/Lab4Web/blob/master/lab4_layout/kontak.html)
 !img[SS](https://github.com/rangs24/Lab4Web/blob/master/ss30.png)
